@@ -1,4 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
   Title = "Script patched.",
-  Text = "wait for an update."
+  Text = "discord copied to clipboard"
 })
+
+setclipboard("https://discord.gg/5TAJwHDy3b")
